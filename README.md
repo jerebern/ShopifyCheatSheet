@@ -2,7 +2,7 @@
 # Somes Shopify Themes Improvement
 
 
-#### This project is kind of a personal cheat sheet for Shopify. This is not my job, so I thought it will be more easy for me to remember this if I share It on GitHub
+#### This project is kind of a personal cheat sheet for Shopify. This is not my job, so I thought it will be more easy for me to remember this if I share it on GitHub
 
 ### Free to use at your own risk, I do not offer support of any kind.
 
