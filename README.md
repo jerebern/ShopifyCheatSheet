@@ -19,7 +19,7 @@
 this.updateVariant(this.getProductId(mediaId),this.getVariantId(mediaId))
 
 ```
-####  Add the end of the class add theses lines of code
+####  Add the end of the class add these lines of code
 ```bash
 getProductId(rawId){
         rawId = rawId.substring(0,rawId.indexOf("_"));
